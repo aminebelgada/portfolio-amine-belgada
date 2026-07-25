@@ -91,9 +91,13 @@ export default function Hero() {
             transition={{ duration: 0.6, delay: 0.45 }}
             className="mt-8 flex flex-wrap gap-4 justify-center md:justify-start"
           >
-            <a href={profile.cvPath} download className="btn-primary">
+            <a
+              href="/cv/Amine_Belgada_CV.pdf"
+              download="CV_Amine_Belgada.pdf"
+              className="btn-primary"
+            >
               <Download size={18} />
-              Télécharger CV
+              Télécharger mon CV
             </a>
             <a href="#projects" className="btn-secondary">
               Voir mes projets
