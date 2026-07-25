@@ -153,7 +153,7 @@ export const projects = [
       "Tableau de bord décisionnel pour le suivi des ventes, incluant des indicateurs clés de performance et des prévisions.",
     features: ["KPIs de vente en temps réel", "Requêtes SQL optimisées", "Prévisions (Forecast)"],
     tech: ["Python", "SQL", "Power BI"],
-    image: "/projects/Image2.jpeg",
+    image: "/projects/Image1.jpeg",
     links: {
       github: "https://github.com/amine-belgada/sales-dashboard",
     },
