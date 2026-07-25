@@ -125,7 +125,7 @@ export const projects = [
       "Performance des techniciens",
     ],
     tech: ["Python", "SQL Server", "Docker", "Airflow", "Power BI"],
-    image: "/projects/dashboard-main.svg",
+    image: "/projects/dashbord-intervention.jpeg",
     links: {
       github: "https://github.com/amine-belgada/decisional-system",
       report: "/reports/rapport-systeme-decisionnel.pdf",
@@ -153,7 +153,7 @@ export const projects = [
       "Tableau de bord décisionnel pour le suivi des ventes, incluant des indicateurs clés de performance et des prévisions.",
     features: ["KPIs de vente en temps réel", "Requêtes SQL optimisées", "Prévisions (Forecast)"],
     tech: ["Python", "SQL", "Power BI"],
-    image: "/projects/sales.svg",
+    image: "/projects/image2.jpg",
     links: {
       github: "https://github.com/amine-belgada/sales-dashboard",
     },
