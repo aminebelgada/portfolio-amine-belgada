@@ -92,8 +92,8 @@ export default function Hero() {
             className="mt-8 flex flex-wrap gap-4 justify-center md:justify-start"
           >
             <a
-              href="/cv/Amine_Belgada_CV.pdf"
-              download="CV_Amine_Belgada.pdf"
+              href="/CV MOHAMED AMINE BELGADA 2026 nv 1.pdf"
+              download="CV MOHAMED AMINE BELGADA 2026 nv 1.pdf"
               className="btn-primary"
             >
               <Download size={18} />
